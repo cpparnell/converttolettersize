@@ -1,4 +1,4 @@
-# a4tolettersize
+# converttolettersize
 Convert smaller format pdf document to letter size while maintaining size and proportion of content.
 
 This will resize the pages in the document to letter size and center the existing content.

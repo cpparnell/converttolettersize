@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='ConvertToLetterSize',
     version='0.1',
-    py_modules=['converttolettersize'],
+    py_modules=['convert'],
     install_requires=[
         'Click',
         'PyMuPDF',
